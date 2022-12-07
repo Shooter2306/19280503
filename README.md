@@ -12,4 +12,4 @@
 <body bgcolor="gray">
 
 <h3> NOMBRE:  <h4> Andrik Daniel Garduño Cornejo
-<h3> CREDITO: 
+<h3> VALIDO 
